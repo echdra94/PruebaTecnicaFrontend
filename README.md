@@ -2,4 +2,7 @@
 
 Prueba Técnica FrontEnd
 
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
++ Generation CH57
++ Viernes 22 de Agosto del 2025
++ 10:00 horas
++ Alejandra del Carmen Echavarria Gallegos
